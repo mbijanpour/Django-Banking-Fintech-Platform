@@ -1,2 +1,2 @@
-# Django-Banking-Finetech-Platform
+# Django-Banking-Fintech-Platform
  
